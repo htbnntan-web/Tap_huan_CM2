@@ -1,0 +1,6 @@
+{
+  "name": "Trình chiếu So sánh Thông tư 32/2020 và Thông tư 15/2026",
+  "description": "Hệ thống slide trình chiếu tương tác phân tích và so sánh bản chất nội hàm, các chuyển dịch cốt lõi giữa Thông tư 32/2020/TT-BGDĐT và Thông tư 15/2026/TT-BGDĐT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
